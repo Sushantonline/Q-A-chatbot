@@ -42,3 +42,7 @@ Set up secrets: Create .streamlit/secrets.toml with your GOOGLE_API_KEY or set i
 or
 
 `python -m streamlit run main_app.py`
+
+**Authors**
+Sushant
+Senthil
