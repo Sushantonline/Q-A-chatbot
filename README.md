@@ -96,8 +96,6 @@ or
 2. Visualisation module and Suggesting plots along with prompts in chat
 
 
-**Authors**
-
+## Authors 
 Sushant
-
 Senthil
